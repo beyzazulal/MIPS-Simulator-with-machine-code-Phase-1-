@@ -61,4 +61,4 @@ sw $t2, 0($zero)
 **Geliştirici Notu:** Bu Phase 1 çalışması, işlemcinin mantıksal doğrulamasını yapmak için tasarlanmıştır. Bir sonraki aşamada (Phase 2) pipeline yapısı ve hazard yönetimi bu temel üzerine inşa edilecektir.
 
 <img width="1920" height="1080" alt="Machinli" src="https://github.com/user-attachments/assets/78ccd1dd-dad0-4333-a106-c11c109c8f00" />   
-görsel ek olarak paylaşılmıştır.
+
